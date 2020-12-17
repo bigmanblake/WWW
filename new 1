@@ -1,0 +1,58 @@
+<html>
+	
+<head>
+	<title>blakes page</title>
+</head>
+
+
+<body>
+	<header>
+		<a href="new 1">Home</a> | <a href="GDwork">GDwork</a> | <a href="Personal infomation">Personal infomation</a>
+		<h3>Home</h3>
+		</div>
+		</div>
+	</header>
+</body>
+
+
+<footer>
+	<p><a href="contact us">Contact us</a></p>
+</footer>
+
+
+</html>
+
+
+<style>
+	header {
+	padding: 0;
+	margin: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+	border-color: black;
+	font-size: 13;
+	text-align: center;
+	border-style: double;
+	}
+	
+	body {
+	background-color: white;
+	}
+	
+	footer {
+	padding: 0;
+	margin: 0;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	background-color: gray;
+	border-color: black;
+	font-size: 15;
+	text-align: center;
+	border-style: double;
+}
+</style>
