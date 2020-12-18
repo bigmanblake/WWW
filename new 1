@@ -6,68 +6,22 @@
 </head>
 
 <header>
-	<h3>Home</h3>
-	<nav id="navbar">
-		<ul>
-			
-			<li><a href="new 1">Home</a></li>
-			<li><a href="GDwork">GDwork</a></li>
-			<li><a href="Personal infomation">Personal infomation</a><li>
-		</ul>
-	</nav>
 </header>
 
 <body style="background-image: url('images/background4.jpg');">
-
+	<nav id="navbar">
+		<h2>Home</h2>
+		<ul>
+			<li><a href="new 1">Home</a></li>
+			<li><a href="GDwork">GDwork</a></li>
+			<li><a href="Personal infomation">Personal infomation</a></li>
+		</ul>
+	</nav>
 	<p>Welcome to Blakes portfolio webpage. I'm a game design student at Bournemouth uni, the reason I took this course is because games have always interested me from a very young age. For as long as I can remember I've wanted to make a fighting game. Specifically, a soul successor to sf3 3rd strike with a similar 90s-pixel art style. I'm also interested in metroidvanias, roguelikes, 2d platformers, 2d animation and any game published by Devolver Studios. My goal is for my fighting game to make it to evo.</p>
 </body>
 
-<footer>
 
+<footer>
 </footer>
 
 </html>
-
-<style>
-#navbar{
-	display: flex;
-	justify-content: space-between;
-	position: sticky;
-	top: 0;
-	z-index: 1;
-	font-size: 13;
-}
-#navbar ul {
-	display: flex;
-	align-items: center;
-	list-style: none;
-}
-header {
-	position: fixed;
-	top: 0;
-	width: 100%;
-	height: 50px;
-	background-color: white;
-	border-color: black;
-	font-family: Arial, sans-serif;
-}
-
-body {
-	font-family: Arial, sans-serif;
-	padding-top: 300;
-	margin: 0;
-}	
-	
-footer {
-	padding: 0;
-	margin: 0;
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	height: 50px;
-	background-color: #99e54f;
-	border-color: black;
-	font-size: 15;
-	text-align: center;
-}
-</style>
